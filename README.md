@@ -1,12 +1,17 @@
 <h1 align="center">Hi 👋, I'm Barak Braun</h1>
-<h3 align="center">Full-Stack / Frontend Web Developer with knowledge and experience writing single-page-applications.</h3>
+<h3 align="center">Full-Stack / Frontend Web Developer with knowledge and experience writing applications.</h3>
 
+- 🔭 Using the latest WEB technologies such as Node.js, React.js as well as, CSS, SASS and HTML.
+- 📝 Graduate of the Coding Academy - 640 hours of an intensive coding bootcamp that qualifies Full-Stack developers.
+- 👨‍💻 Passionate about technology, curious about solving complex problems.
+- 👯 Team player, fast self learner, experience in working in stressful environments.
 - 📫 How to reach me **bbarak94@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/barak braun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="barak braun" height="30" width="40" /></a>
-<a href="https://fb.com/barak braun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="barak braun" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/barak-braun-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="barak-braun-dev" height="30" width="40" /></a>
+<a href="https://fb.com/barak.braun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="barak.braun" height="30" width="40" /></a>
+<a href="https://instagram.com/barak.braun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="barak.braun" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
